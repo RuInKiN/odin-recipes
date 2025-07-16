@@ -15,11 +15,13 @@ h1{
     text-align: center;
     margin: 20px;
     text-decoration: underline;
+    color: #f68537;
 }
 
 h5{
     text-align: center;
     margin-bottom: 50px;
+    color: #f68537;
 }
 
 ul{
@@ -35,7 +37,7 @@ li{
 
 a{
     text-decoration: none;
-    color: #273F4F;
+    color: #3e85b5;
 }
 
 img{
