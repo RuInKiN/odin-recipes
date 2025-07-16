@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    color: #3e85b5;
+}
+
+body{
+    background-color: #ecedb0bd
+}
+
+h1, h3{
+    text-align: center;
+    color: #F68537;
+    padding: 20px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+    border: #4682A9 3px solid;
+    border-radius: 5px;
+}
+
+.discription, .ingredients, .steps {
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 3px solid #6e6c6c;
+}
+
+li{
+    margin: 15px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #f59855;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button a{
+    color: white;
+}
+
+p{
+    margin: 15px;
+}
+
+a{
+    text-decoration: none;
+}
